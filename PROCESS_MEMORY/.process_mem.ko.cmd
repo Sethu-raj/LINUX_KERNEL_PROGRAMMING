@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/PROCESS_MEMORY/process_mem.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/LINUXKERNEL/PROCESS_MEMORY/process_mem.ko /home/vboxuser/LINUXKERNEL/PROCESS_MEMORY/process_mem.o /home/vboxuser/LINUXKERNEL/PROCESS_MEMORY/process_mem.mod.o

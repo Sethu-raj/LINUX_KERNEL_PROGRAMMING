@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/PASS_Module_Para_MODPROBE/param.mod := printf '%s\n'   param.o | awk '!x[$$0]++ { print("/home/vboxuser/LINUXKERNEL/PASS_Module_Para_MODPROBE/"$$0) }' > /home/vboxuser/LINUXKERNEL/PASS_Module_Para_MODPROBE/param.mod

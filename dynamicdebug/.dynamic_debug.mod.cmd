@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/dynamicdebug/dynamic_debug.mod := printf '%s\n'   dynamic_debug.o | awk '!x[$$0]++ { print("/home/vboxuser/LINUXKERNEL/dynamicdebug/"$$0) }' > /home/vboxuser/LINUXKERNEL/dynamicdebug/dynamic_debug.mod

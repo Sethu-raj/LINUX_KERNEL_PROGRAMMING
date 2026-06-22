@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/PASS_Module_Para_MODPROBE/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/LINUXKERNEL/PASS_Module_Para_MODPROBE/Module.symvers -T /home/vboxuser/LINUXKERNEL/PASS_Module_Para_MODPROBE/modules.order -i Module.symvers -e 

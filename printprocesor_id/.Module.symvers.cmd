@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/printprocesor_id/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/LINUXKERNEL/printprocesor_id/Module.symvers -T /home/vboxuser/LINUXKERNEL/printprocesor_id/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/CURRENT_MACRO/current_example.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/CURRENT_MACRO/current_example.ko /home/vboxuser/CURRENT_MACRO/current_example.o /home/vboxuser/CURRENT_MACRO/current_example.mod.o

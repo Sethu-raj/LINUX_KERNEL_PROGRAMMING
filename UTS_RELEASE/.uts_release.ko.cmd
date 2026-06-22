@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/UTS_RELEASE/uts_release.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/LINUXKERNEL/UTS_RELEASE/uts_release.ko /home/vboxuser/LINUXKERNEL/UTS_RELEASE/uts_release.o /home/vboxuser/LINUXKERNEL/UTS_RELEASE/uts_release.mod.o

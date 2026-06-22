@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/KERNEL_VERSION/kernel_version.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/LINUXKERNEL/KERNEL_VERSION/kernel_version.ko /home/vboxuser/LINUXKERNEL/KERNEL_VERSION/kernel_version.o /home/vboxuser/LINUXKERNEL/KERNEL_VERSION/kernel_version.mod.o

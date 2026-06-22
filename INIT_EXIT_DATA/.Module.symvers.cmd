@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/INIT_EXIT_DATA/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/LINUXKERNEL/INIT_EXIT_DATA/Module.symvers -T /home/vboxuser/LINUXKERNEL/INIT_EXIT_DATA/modules.order -i Module.symvers -e 

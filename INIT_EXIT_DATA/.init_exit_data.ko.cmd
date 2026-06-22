@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/INIT_EXIT_DATA/init_exit_data.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/LINUXKERNEL/INIT_EXIT_DATA/init_exit_data.ko /home/vboxuser/LINUXKERNEL/INIT_EXIT_DATA/init_exit_data.o /home/vboxuser/LINUXKERNEL/INIT_EXIT_DATA/init_exit_data.mod.o

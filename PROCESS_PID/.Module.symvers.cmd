@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/PROCESS_PID/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/LINUXKERNEL/PROCESS_PID/Module.symvers -T /home/vboxuser/LINUXKERNEL/PROCESS_PID/modules.order -i Module.symvers -e 

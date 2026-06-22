@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/example1/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/vboxuser/LINUXKERNEL/example1/"$$0) }' > /home/vboxuser/LINUXKERNEL/example1/hello.mod

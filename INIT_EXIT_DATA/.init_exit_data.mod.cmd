@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/INIT_EXIT_DATA/init_exit_data.mod := printf '%s\n'   init_exit_data.o | awk '!x[$$0]++ { print("/home/vboxuser/LINUXKERNEL/INIT_EXIT_DATA/"$$0) }' > /home/vboxuser/LINUXKERNEL/INIT_EXIT_DATA/init_exit_data.mod

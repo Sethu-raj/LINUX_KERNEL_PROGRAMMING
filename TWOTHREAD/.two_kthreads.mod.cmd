@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/TWOTHREAD/two_kthreads.mod := printf '%s\n'   two_kthreads.o | awk '!x[$$0]++ { print("/home/vboxuser/LINUXKERNEL/TWOTHREAD/"$$0) }' > /home/vboxuser/LINUXKERNEL/TWOTHREAD/two_kthreads.mod

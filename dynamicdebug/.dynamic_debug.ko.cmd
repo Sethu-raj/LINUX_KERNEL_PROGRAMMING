@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/dynamicdebug/dynamic_debug.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/LINUXKERNEL/dynamicdebug/dynamic_debug.ko /home/vboxuser/LINUXKERNEL/dynamicdebug/dynamic_debug.o /home/vboxuser/LINUXKERNEL/dynamicdebug/dynamic_debug.mod.o

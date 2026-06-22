@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/LINUX_VERSION/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/LINUXKERNEL/LINUX_VERSION/Module.symvers -T /home/vboxuser/LINUXKERNEL/LINUX_VERSION/modules.order -i Module.symvers -e 

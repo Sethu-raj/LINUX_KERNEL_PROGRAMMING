@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/THREAD/kthread_demo.mod := printf '%s\n'   kthread_demo.o | awk '!x[$$0]++ { print("/home/vboxuser/LINUXKERNEL/THREAD/"$$0) }' > /home/vboxuser/LINUXKERNEL/THREAD/kthread_demo.mod
