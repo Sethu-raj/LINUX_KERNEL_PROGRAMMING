@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/UTS_RELEASE/uts_release.mod := printf '%s\n'   uts_release.o | awk '!x[$$0]++ { print("/home/vboxuser/LINUXKERNEL/UTS_RELEASE/"$$0) }' > /home/vboxuser/LINUXKERNEL/UTS_RELEASE/uts_release.mod

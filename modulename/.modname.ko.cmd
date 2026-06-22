@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/modulename/modname.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/LINUXKERNEL/modulename/modname.ko /home/vboxuser/LINUXKERNEL/modulename/modname.o /home/vboxuser/LINUXKERNEL/modulename/modname.mod.o

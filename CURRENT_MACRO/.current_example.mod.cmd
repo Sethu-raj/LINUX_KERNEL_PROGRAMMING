@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/CURRENT_MACRO/current_example.mod := printf '%s\n'   current_example.o | awk '!x[$$0]++ { print("/home/vboxuser/CURRENT_MACRO/"$$0) }' > /home/vboxuser/CURRENT_MACRO/current_example.mod

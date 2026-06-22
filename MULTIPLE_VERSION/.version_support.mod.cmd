@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/MULTIPLE_VERSION/version_support.mod := printf '%s\n'   version_support.o | awk '!x[$$0]++ { print("/home/vboxuser/LINUXKERNEL/MULTIPLE_VERSION/"$$0) }' > /home/vboxuser/LINUXKERNEL/MULTIPLE_VERSION/version_support.mod

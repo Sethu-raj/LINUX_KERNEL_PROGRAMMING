@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/TWOTHREAD/two_kthreads.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/LINUXKERNEL/TWOTHREAD/two_kthreads.ko /home/vboxuser/LINUXKERNEL/TWOTHREAD/two_kthreads.o /home/vboxuser/LINUXKERNEL/TWOTHREAD/two_kthreads.mod.o

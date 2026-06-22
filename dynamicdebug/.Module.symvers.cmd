@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/dynamicdebug/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/LINUXKERNEL/dynamicdebug/Module.symvers -T /home/vboxuser/LINUXKERNEL/dynamicdebug/modules.order -i Module.symvers -e 

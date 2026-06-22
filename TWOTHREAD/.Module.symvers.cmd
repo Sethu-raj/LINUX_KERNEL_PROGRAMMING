@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/TWOTHREAD/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/LINUXKERNEL/TWOTHREAD/Module.symvers -T /home/vboxuser/LINUXKERNEL/TWOTHREAD/modules.order -i Module.symvers -e 

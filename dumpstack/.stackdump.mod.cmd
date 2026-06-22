@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/dumpstack/stackdump.mod := printf '%s\n'   stackdump.o | awk '!x[$$0]++ { print("/home/vboxuser/LINUXKERNEL/dumpstack/"$$0) }' > /home/vboxuser/LINUXKERNEL/dumpstack/stackdump.mod

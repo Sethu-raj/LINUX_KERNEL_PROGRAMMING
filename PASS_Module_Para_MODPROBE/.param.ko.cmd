@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/PASS_Module_Para_MODPROBE/param.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/LINUXKERNEL/PASS_Module_Para_MODPROBE/param.ko /home/vboxuser/LINUXKERNEL/PASS_Module_Para_MODPROBE/param.o /home/vboxuser/LINUXKERNEL/PASS_Module_Para_MODPROBE/param.mod.o

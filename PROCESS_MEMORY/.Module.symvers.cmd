@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/PROCESS_MEMORY/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/LINUXKERNEL/PROCESS_MEMORY/Module.symvers -T /home/vboxuser/LINUXKERNEL/PROCESS_MEMORY/modules.order -i Module.symvers -e 

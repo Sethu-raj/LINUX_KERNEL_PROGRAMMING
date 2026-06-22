@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/KERNEL_VERSION/kernel_version.mod := printf '%s\n'   kernel_version.o | awk '!x[$$0]++ { print("/home/vboxuser/LINUXKERNEL/KERNEL_VERSION/"$$0) }' > /home/vboxuser/LINUXKERNEL/KERNEL_VERSION/kernel_version.mod

@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/THREAD/kthread_demo.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/LINUXKERNEL/THREAD/kthread_demo.ko /home/vboxuser/LINUXKERNEL/THREAD/kthread_demo.o /home/vboxuser/LINUXKERNEL/THREAD/kthread_demo.mod.o

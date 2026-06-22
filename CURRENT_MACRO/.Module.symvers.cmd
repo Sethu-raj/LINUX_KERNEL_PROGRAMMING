@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/CURRENT_MACRO/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vboxuser/CURRENT_MACRO/Module.symvers -T /home/vboxuser/CURRENT_MACRO/modules.order -i Module.symvers -e 

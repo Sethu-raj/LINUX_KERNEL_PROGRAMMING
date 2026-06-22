@@ -1,0 +1,1 @@
+savedcmd_/home/vboxuser/LINUXKERNEL/dumpstack/stackdump.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/vboxuser/LINUXKERNEL/dumpstack/stackdump.ko /home/vboxuser/LINUXKERNEL/dumpstack/stackdump.o /home/vboxuser/LINUXKERNEL/dumpstack/stackdump.mod.o
