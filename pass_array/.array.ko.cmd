@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/pass_array/array.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sethuraj/LINUX_KERNEL/pass_array/array.ko /home/sethuraj/LINUX_KERNEL/pass_array/array.o /home/sethuraj/LINUX_KERNEL/pass_array/array.mod.o;  make -f ./arch/x86/Makefile.postlink /home/sethuraj/LINUX_KERNEL/pass_array/array.ko

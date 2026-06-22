@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/EXPORT_VARIABLE/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/sethuraj/LINUX_KERNEL/EXPORT_VARIABLE/Module.symvers -T /home/sethuraj/LINUX_KERNEL/EXPORT_VARIABLE/modules.order -i Module.symvers -e 

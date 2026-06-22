@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/modulelicense/modlic.mod := printf '%s\n'   modlic.o | awk '!x[$$0]++ { print("/home/sethuraj/LINUX_KERNEL/modulelicense/"$$0) }' > /home/sethuraj/LINUX_KERNEL/modulelicense/modlic.mod

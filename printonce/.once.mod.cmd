@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/printonce/once.mod := printf '%s\n'   once.o | awk '!x[$$0]++ { print("/home/sethuraj/LINUX_KERNEL/printonce/"$$0) }' > /home/sethuraj/LINUX_KERNEL/printonce/once.mod

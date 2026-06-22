@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/parastring/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/sethuraj/LINUX_KERNEL/parastring/Module.symvers -T /home/sethuraj/LINUX_KERNEL/parastring/modules.order -i Module.symvers -e 

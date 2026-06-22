@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/parameter/ex28.mod := printf '%s\n'   ex28.o | awk '!x[$$0]++ { print("/home/sethuraj/LINUX_KERNEL/parameter/"$$0) }' > /home/sethuraj/LINUX_KERNEL/parameter/ex28.mod

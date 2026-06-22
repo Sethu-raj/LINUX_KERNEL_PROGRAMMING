@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/shortprintk/short_printk.mod := printf '%s\n'   short_printk.o | awk '!x[$$0]++ { print("/home/sethuraj/LINUX_KERNEL/shortprintk/"$$0) }' > /home/sethuraj/LINUX_KERNEL/shortprintk/short_printk.mod

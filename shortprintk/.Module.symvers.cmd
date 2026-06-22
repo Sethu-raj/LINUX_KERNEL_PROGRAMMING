@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/shortprintk/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/sethuraj/LINUX_KERNEL/shortprintk/Module.symvers -T /home/sethuraj/LINUX_KERNEL/shortprintk/modules.order -i Module.symvers -e 

@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/printavoidnewline/cont.mod := printf '%s\n'   cont.o | awk '!x[$$0]++ { print("/home/sethuraj/LINUX_KERNEL/printavoidnewline/"$$0) }' > /home/sethuraj/LINUX_KERNEL/printavoidnewline/cont.mod

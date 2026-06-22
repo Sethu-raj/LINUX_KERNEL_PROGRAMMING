@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/inversebool/invbool.mod := printf '%s\n'   invbool.o | awk '!x[$$0]++ { print("/home/sethuraj/LINUX_KERNEL/inversebool/"$$0) }' > /home/sethuraj/LINUX_KERNEL/inversebool/invbool.mod

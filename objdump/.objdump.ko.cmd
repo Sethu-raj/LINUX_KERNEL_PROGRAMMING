@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/objdump/objdump.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/sethuraj/LINUX_KERNEL/objdump/objdump.ko /home/sethuraj/LINUX_KERNEL/objdump/objdump.o /home/sethuraj/LINUX_KERNEL/objdump/objdump.mod.o;  make -f ./arch/x86/Makefile.postlink /home/sethuraj/LINUX_KERNEL/objdump/objdump.ko

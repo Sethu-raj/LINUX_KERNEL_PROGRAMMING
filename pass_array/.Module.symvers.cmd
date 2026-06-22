@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/pass_array/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/sethuraj/LINUX_KERNEL/pass_array/Module.symvers -T /home/sethuraj/LINUX_KERNEL/pass_array/modules.order -i Module.symvers -e 

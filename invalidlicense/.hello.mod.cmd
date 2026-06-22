@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/invalidlicense/hello.mod := printf '%s\n'   hello.o | awk '!x[$$0]++ { print("/home/sethuraj/LINUX_KERNEL/invalidlicense/"$$0) }' > /home/sethuraj/LINUX_KERNEL/invalidlicense/hello.mod

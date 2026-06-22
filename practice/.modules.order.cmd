@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/practice/modules.order := {   echo /home/sethuraj/LINUX_KERNEL/practice/ex1.o;   echo /home/sethuraj/LINUX_KERNEL/practice/ex2.o; :; } > /home/sethuraj/LINUX_KERNEL/practice/modules.order

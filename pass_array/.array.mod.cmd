@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/pass_array/array.mod := printf '%s\n'   array.o | awk '!x[$$0]++ { print("/home/sethuraj/LINUX_KERNEL/pass_array/"$$0) }' > /home/sethuraj/LINUX_KERNEL/pass_array/array.mod

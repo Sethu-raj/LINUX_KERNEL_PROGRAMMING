@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/EXPORT_VARIABLE/export_var.mod := printf '%s\n'   export_var.o | awk '!x[$$0]++ { print("/home/sethuraj/LINUX_KERNEL/EXPORT_VARIABLE/"$$0) }' > /home/sethuraj/LINUX_KERNEL/EXPORT_VARIABLE/export_var.mod

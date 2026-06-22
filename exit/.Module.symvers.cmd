@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/exit/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/sethuraj/LINUX_KERNEL/exit/Module.symvers -T /home/sethuraj/LINUX_KERNEL/exit/modules.order -i Module.symvers -e 

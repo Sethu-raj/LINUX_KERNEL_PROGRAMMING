@@ -1,0 +1,1 @@
+savedcmd_/home/sethuraj/LINUX_KERNEL/smmapproc/symbol.mod := printf '%s\n'   symbol.o | awk '!x[$$0]++ { print("/home/sethuraj/LINUX_KERNEL/smmapproc/"$$0) }' > /home/sethuraj/LINUX_KERNEL/smmapproc/symbol.mod
